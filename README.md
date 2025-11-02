@@ -1,7 +1,6 @@
 # Used-Car-Price-Prediction-ML-Project
 
 This project predicts the **selling price of used cars** in the Indian market using various machine learning models.  
-It was developed as part of the **Comviva Summer Elective Course on AI & ML for Data Science ** .
 ---
 ## 📌 Project Overview
 
